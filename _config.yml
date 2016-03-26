@@ -1,0 +1,28 @@
+name: vivid
+favicon: null
+layout_spectrum: 0.2003490396309644
+typography_spectrum: 0.4642438660375774
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.1833030334673822
+  lightness: 0.8207131973467767
+  saturation: 0.4378085355274379
+  rhythmicContrast: 0.8531057904474437
+purpose: []
