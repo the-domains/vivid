@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Creativity and Artificial Intelligence]]></title>
         <description><![CDATA[Creativity and Artificial Intelligence]]></description>
-        <link>https://thegrid.ai//creativeai/</link>
+        <link>https://thegrid.ai/vivid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 01:09:05 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai//creativeai/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 01:17:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vivid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello world]]></title>
-            <description><![CDATA[<article><h1>Hello world</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b73eed4-d6b0-4508-8420-7e13dec92bd8.jpg"></article>]]></description>
-            <link>https://thegrid.ai//creativeai/d7a1af5a-0738-4b2e-8b70-21f952555dd1/index.html</link>
+            <description><![CDATA[<article><h1>Hello world</h1><p>Co</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b73eed4-d6b0-4508-8420-7e13dec92bd8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vivid/d7a1af5a-0738-4b2e-8b70-21f952555dd1/index.html</link>
             <guid isPermaLink="false">d7a1af5a-0738-4b2e-8b70-21f952555dd1</guid>
-            <pubDate>Tue, 29 Mar 2016 01:08:26 GMT</pubDate>
+            <pubDate>Tue, 29 Mar 2016 01:17:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
