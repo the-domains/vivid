@@ -4,11 +4,18 @@
         <description><![CDATA[Creativity and Artificial Intelligence]]></description>
         <link>https://thegrid.ai/vivid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 01:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 01:51:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vivid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/854f3a8f-1658-429b-bcd7-6fca7fdbd0c3.jpg">]]></description>
+            <title><![CDATA[This is the third post]]></title>
+            <description><![CDATA[<article><h1>This is the third post</h1><p>What should I put here? I'm struggling to understand WTF does this site do?</p></article>]]></description>
+            <link>https://thegrid.ai/vivid/this-is-the-third-post/index.html</link>
+            <guid isPermaLink="false">14f945cc-d3d8-4b76-9817-1650c65cd439</guid>
+            <pubDate>Tue, 29 Mar 2016 01:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This a second post]]></title>
+            <description><![CDATA[<article><h1>This a second post</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b8473a8eea1c8d6ca9df89349b47cdf19cf95d6.jpg"></article>]]></description>
             <link>https://thegrid.ai/vivid/3a0f0ab6-6d4e-4b46-aa1d-99aae92a71a8/index.html</link>
             <guid isPermaLink="false">3a0f0ab6-6d4e-4b46-aa1d-99aae92a71a8</guid>
             <pubDate>Tue, 29 Mar 2016 01:44:01 GMT</pubDate>
