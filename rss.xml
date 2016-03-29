@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Creativity and Artificial Intelligence]]></title>
+        <description><![CDATA[Creativity and Artificial Intelligence]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Mar 2016 01:19:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Compendium of articles on AI-driven creativity</p>]]></description>
+            <link>undefinedac384b48-0c2e-480d-a8ae-dd081137f9e1/index.html</link>
+            <guid isPermaLink="false">ac384b48-0c2e-480d-a8ae-dd081137f9e1</guid>
+            <pubDate>Tue, 29 Mar 2016 01:19:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
